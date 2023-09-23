@@ -10,7 +10,7 @@ setuptools.setup(
     author_email='kushalhedaoo29@gmail.com',
     description='Simple functioning calculator',
 
-    url='https://github.com/mike-huls/toolbox',
+    url='https://github.com/kushalhedaoo/functions',
 
     license='MIT',
     packages=['functions'],
