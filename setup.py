@@ -14,5 +14,5 @@ setuptools.setup(
 
     license='MIT',
     packages=['functions'],
-    install_requires=['numpy,pandas'],
+    install_requires=['numpy','pandas'],
 )
